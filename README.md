@@ -1,2 +1,3 @@
 # SE_Lab-4
-Merry Christmas to all
+We wish you a Merry Christmas
+And a Happy New Year
